@@ -4,7 +4,7 @@ from module_43 import fact_, fibonacci_, round_
 
 a = 16
 b = 13
-n = 4
+n = 8
 print('a =', a, 'b =', b, 'n =', n)
 
 c = sum_(a,b)

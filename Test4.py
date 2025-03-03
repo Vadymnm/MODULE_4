@@ -2,7 +2,7 @@ from module_41 import sum_, dif_, mult_, div_
 from module_42 import pov2_, povn_, sqrt_, log_
 from module_43 import fact_, fibonacci_, round_
 
-a = 16
+a = 28
 b = 13
 n = 8
 print('a =', a, 'b =', b, 'n =', n)
